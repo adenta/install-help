@@ -1,0 +1,6 @@
+ran wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh 
+
+ran command 'heroku'
+
+works.
+
